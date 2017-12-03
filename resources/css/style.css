@@ -1,0 +1,44 @@
+body{
+text-align: center;
+font-family: helvetica;
+}
+.Broadway {
+color: White;
+background-image: url("../images/building.png");
+}
+.Broadway h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+.broadway p{
+  font-size: 18px;
+  color: white;
+
+}
+.btn-nav{
+  color: white;
+  font-family: helvetica;
+  font-size: 18px;
+}
+.process h1{
+  font-weight: Bold;
+  font-size: 32px;
+}
+.process h2{
+  font-weight: bold;
+  font-size: 23px;
+
+}
+.NY{
+  background-image: url("../images/building.png");
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+
+}
+.bottom  {
+  background: dimgray;
+  text-align: left;
+  color: white;
+  font-size: 11px;
+}
